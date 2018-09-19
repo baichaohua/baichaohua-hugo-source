@@ -1,0 +1,8 @@
+正在使用的主题:
+
+https://github.com/xianmin/hugo-theme-jane/blob/master/README-zh.md
+
+不错的主题:
+
+https://liuzhichao.com/2018/hugo-theme-leaveit/
+
